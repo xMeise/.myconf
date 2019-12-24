@@ -115,7 +115,8 @@ alias rr='ranger'
 alias config='/usr/bin/git --git-dir=$HOME/.myconf/ --work-tree=$HOME'
 alias ccs='config status'
 alias cca='config add'
-alias ccm='f() {config commit -m $@};f'
+
+alias ccm='f() {config commit -m $1 $2};f'
 alias ccp='config push'
 alias example='f() { echo Your arg was $1. };f'
 
