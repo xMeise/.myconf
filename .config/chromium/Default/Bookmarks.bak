@@ -1,0 +1,341 @@
+{
+   "checksum": "60663f518d6f8ebab2dcb9f80e50804e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13217093525815686",
+               "guid": "913d82b0-6173-44cf-99a6-70251b37194f",
+               "id": "6",
+               "name": "Anleitung für Einsteiger – wiki.archlinux.de",
+               "type": "url",
+               "url": "https://wiki.archlinux.de/title/Anleitung_f%C3%BCr_Einsteiger#Das_Basissystem_installieren"
+            }, {
+               "date_added": "13217956600442423",
+               "guid": "0f043f00-fdbb-470f-8307-eccdb8bf10ea",
+               "id": "7",
+               "name": "Arch Linux - Pacman Mirrorlist Generator",
+               "type": "url",
+               "url": "https://www.archlinux.org/mirrorlist/"
+            }, {
+               "date_added": "13218221541027973",
+               "guid": "1c62a14c-5e27-429a-aefe-2cac470c8742",
+               "id": "8",
+               "name": "LukeSmithxyz/dmenu: dmenu setup for LARBS",
+               "type": "url",
+               "url": "https://github.com/LukeSmithxyz/dmenu"
+            } ],
+            "date_added": "13219496239695496",
+            "date_modified": "13219496239695497",
+            "guid": "dc11b162-5354-442d-be39-6affbefd758b",
+            "id": "5",
+            "name": "ArchLinux",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13218597853454597",
+               "guid": "dda140d9-4b2a-4f4c-a17d-ea8491fd3de3",
+               "id": "10",
+               "name": "vim-cheatsheet.pdf",
+               "type": "url",
+               "url": "https://www.cs.cmu.edu/~15131/f17/topics/vim/vim-cheatsheet.pdf"
+            }, {
+               "date_added": "13218768940894809",
+               "guid": "0a51e7a2-cd48-421b-ad3e-48e763d729fd",
+               "id": "11",
+               "name": "Git Pull | Atlassian Git Tutorial",
+               "type": "url",
+               "url": "https://www.atlassian.com/git/tutorials/syncing/git-pull"
+            }, {
+               "date_added": "13218822016471944",
+               "guid": "60b6c874-6e17-4a73-84aa-9d1f42ddb2e4",
+               "id": "12",
+               "name": "Timeshift v17.10 – TeejeeTech",
+               "type": "url",
+               "url": "https://teejeetech.in/2017/10/01/timeshift-v17-10/"
+            }, {
+               "date_added": "13218854212819975",
+               "guid": "767c2f24-a917-4c2a-b60c-3f2bb1cb3d63",
+               "id": "13",
+               "name": "i3: i3 User’s Guide",
+               "type": "url",
+               "url": "https://i3wm.org/docs/userguide.html"
+            }, {
+               "date_added": "13218905982020252",
+               "guid": "cbd6abe9-9172-43d0-8418-2bcffefeefe5",
+               "id": "14",
+               "name": "GitHub - daedreth/URXVTConfig: A graphical user interface tool for configuration of the rxvt-unicode terminal emulator.",
+               "type": "url",
+               "url": "https://github.com/daedreth/URXVTConfig"
+            }, {
+               "date_added": "13218907757118949",
+               "guid": "36f43539-2730-492c-beed-aca1fa2d6f37",
+               "id": "15",
+               "name": "Arch Linux - powerline-fonts 2.7-4 (x86_64)",
+               "type": "url",
+               "url": "https://www.archlinux.org/packages/community/x86_64/powerline-fonts/"
+            }, {
+               "date_added": "13218908170644432",
+               "guid": "577e4d75-f656-42d9-9f65-c6eaee0b6589",
+               "id": "16",
+               "name": "Install ZSH on Arch Linux Manjaro and make it your default Shell",
+               "type": "url",
+               "url": "https://medium.com/tech-notes-and-geek-stuff/install-zsh-on-arch-linux-manjaro-and-make-it-your-default-shell-b0098b756a7a"
+            }, {
+               "date_added": "13219068780477380",
+               "guid": "f6683fc1-78fb-48da-8313-576f1bc70c12",
+               "id": "17",
+               "name": "I3 terminal change? - Support for Community Editions - Manjaro Linux Forum",
+               "type": "url",
+               "url": "https://forum.manjaro.org/t/i3-terminal-change/88192"
+            }, {
+               "date_added": "13219167115620379",
+               "guid": "88c90840-04e0-456b-9909-388ba527e291",
+               "id": "18",
+               "name": "Complete Desktop Tuning Project Hibiscus on ArchLabs | ERiK DuBoiS",
+               "type": "url",
+               "url": "https://erikdubois.be/complete-desktop-tuning-project-hibiscus-on-archlabs/"
+            }, {
+               "date_added": "13219250567009340",
+               "guid": "e3fd58c5-b5aa-43fd-833e-133015b0b008",
+               "id": "19",
+               "name": "termite-style/setup at master · adi1090x/termite-style · GitHub",
+               "type": "url",
+               "url": "https://github.com/adi1090x/termite-style/blob/master/setup"
+            }, {
+               "date_added": "13219253923524438",
+               "guid": "d55635ba-a5f2-439f-9317-f2ee85ae24c3",
+               "id": "20",
+               "name": "A beginner’s tutorial for mbpfan under Ubuntu – ineed.coffee",
+               "type": "url",
+               "url": "https://ineed.coffee/3838/a-beginners-tutorial-for-mbpfan-under-ubuntu/"
+            }, {
+               "date_added": "13219256050426984",
+               "guid": "bba90bdf-ca5f-48e0-b3b6-c203116e204c",
+               "id": "21",
+               "name": "GitHub - unix121/i3wm-themer: My collection of Themes and scripts for i3-wm",
+               "type": "url",
+               "url": "https://github.com/unix121/i3wm-themer"
+            }, {
+               "date_added": "13219306881821050",
+               "guid": "88a993ae-431b-4419-b82c-deca6bcbef98",
+               "id": "22",
+               "name": "Install Linux apps using the Snap Store | Snapcraft",
+               "type": "url",
+               "url": "https://snapcraft.io/store"
+            }, {
+               "date_added": "13219308075526050",
+               "guid": "f4539f2d-3038-402d-8d78-aedf3092d1c6",
+               "id": "23",
+               "name": "Configure Redshift Blue Light Reducer for i3wm on Manjaro Linux",
+               "type": "url",
+               "url": "https://www.matthiggins.dev/install-redshift-with-i3/"
+            }, {
+               "date_added": "13219310825414068",
+               "guid": "c9c6412e-ddc3-40e4-b765-4462b7c29fab",
+               "id": "24",
+               "name": "GitHub - HorlogeSkynet/archey4: Maintained fork of the original Archey Linux system tool",
+               "type": "url",
+               "url": "https://github.com/HorlogeSkynet/archey4"
+            }, {
+               "date_added": "13219337375807055",
+               "guid": "cd8c4fd8-bc9e-4d3e-b08a-d88c9024ef6c",
+               "id": "25",
+               "name": "How to fix Redshift in Manjaro Linux i3 — lobo_tuerto's notes",
+               "type": "url",
+               "url": "https://lobotuerto.com/blog/how-to-fix-redshift-in-manjaro-linux-i3/"
+            }, {
+               "date_added": "13219340226052621",
+               "guid": "bccc4a38-449b-4772-9e93-54bf79fe5031",
+               "id": "26",
+               "name": "DotShare.it",
+               "type": "url",
+               "url": "http://dotshare.it/dots/8270/"
+            }, {
+               "date_added": "13219342715361989",
+               "guid": "d0b9dec4-9677-456d-8b3f-24a227bf1f02",
+               "id": "27",
+               "name": "How To Install Packer In Arch Linux - OSTechNix",
+               "type": "url",
+               "url": "https://www.ostechnix.com/install-packer-arch-linux-2/"
+            }, {
+               "date_added": "13219344964299673",
+               "guid": "d9ed6be4-4583-4772-bf37-9975b2481671",
+               "id": "28",
+               "name": "GitHub - cOb4l7/dotfiles: Managed by GNU stow",
+               "type": "url",
+               "url": "https://github.com/cOb4l7/dotfiles"
+            }, {
+               "date_added": "13219372402929245",
+               "guid": "96e321c6-76ff-40b4-b048-ae0350011a76",
+               "id": "29",
+               "name": "GitHub - atom/atom: The hackable text editor",
+               "type": "url",
+               "url": "https://github.com/atom/atom"
+            }, {
+               "date_added": "13219401923714892",
+               "guid": "f2d9ff03-4f3a-4ba8-87cf-b9c86d601b7f",
+               "id": "30",
+               "name": "GitHub - VundleVim/Vundle.vim: Vundle, the plug-in manager for Vim",
+               "type": "url",
+               "url": "https://github.com/VundleVim/Vundle.vim"
+            }, {
+               "date_added": "13219402419132949",
+               "guid": "d0405ee5-b6c9-41b7-b958-65fbb61eabeb",
+               "id": "31",
+               "name": "https://ranger.github.io",
+               "type": "url",
+               "url": "https://ranger.github.io/"
+            }, {
+               "date_added": "13219412524589308",
+               "guid": "c05c5fd9-d3fa-4388-b243-00b0fd0a7b6e",
+               "id": "32",
+               "name": "Yay - Yet Another Reliable AUR Helper Written In GO - OSTechNix",
+               "type": "url",
+               "url": "https://www.ostechnix.com/yay-found-yet-another-reliable-aur-helper/"
+            }, {
+               "children": [ {
+                  "date_added": "13219425512277870",
+                  "guid": "a06f65d7-c6f0-41d5-9f9e-83be5ce4a645",
+                  "id": "34",
+                  "name": "Manage Your Files From The Command Line With Ranger - LinuxConfig.org",
+                  "type": "url",
+                  "url": "https://linuxconfig.org/manage-your-files-from-the-command-line-with-ranger"
+               } ],
+               "date_added": "13219496239752436",
+               "date_modified": "13219496239752436",
+               "guid": "7ede7004-d2f0-43a2-abbf-649fdc711b37",
+               "id": "33",
+               "name": "Ranger",
+               "type": "folder"
+            }, {
+               "date_added": "13219431232304872",
+               "guid": "d11a3c8c-8a46-4813-820f-386c01f0f742",
+               "id": "35",
+               "name": "Rofi - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/index.php/Rofi"
+            }, {
+               "date_added": "13219463041239253",
+               "guid": "d299a4e9-a09d-4149-aa08-ef46b4ded2ec",
+               "id": "36",
+               "name": "VIM Vundle Tutorial – Linux Hint",
+               "type": "url",
+               "url": "https://linuxhint.com/vim-vundle-tutorial/"
+            }, {
+               "date_added": "13219491543249954",
+               "guid": "11ee57ae-f03f-41b8-9dcd-637a98818c15",
+               "id": "37",
+               "name": "Chmod 0555",
+               "type": "url",
+               "url": "https://chmodcommand.com/chmod-777/"
+            }, {
+               "date_added": "13219511242190899",
+               "guid": "5e03c1b5-e3af-47fd-83b4-95f097c61b28",
+               "id": "44",
+               "name": "stapelberg/configfiles: dotfiles",
+               "type": "url",
+               "url": "https://github.com/stapelberg/configfiles"
+            }, {
+               "date_added": "13219750315064430",
+               "guid": "e0aa6136-07c2-4675-a614-d5057aa53448",
+               "id": "46",
+               "name": "Automatically open applications on specific workspaces with startup arguments : i3wm",
+               "type": "url",
+               "url": "https://www.reddit.com/r/i3wm/comments/8oyzmy/automatically_open_applications_on_specific/"
+            }, {
+               "date_added": "13220553076424900",
+               "guid": "fd276a28-02eb-4edb-9a35-e10cc1865fa4",
+               "id": "51",
+               "name": "(7) i3wm: Jump Start (1/3) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=j1I63wGcvU4"
+            } ],
+            "date_added": "13219496239746443",
+            "date_modified": "13220553083086756",
+            "guid": "ba32d4b0-278d-435e-8975-ead151a44cf3",
+            "id": "9",
+            "name": "Vim & Co",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13217904287136960",
+               "guid": "752d1d96-7141-416e-a02f-01b93ee812b5",
+               "id": "39",
+               "name": "Macbook Arch Guide · GitHub",
+               "type": "url",
+               "url": "https://gist.github.com/gilbertw1/81ef4b0bcf3ddefa4b18"
+            }, {
+               "date_added": "13219065661997909",
+               "guid": "01a6a616-7988-48d2-b787-6eb180efdb72",
+               "id": "40",
+               "name": "Arch Linux running on my MacBook - Phil Plückthun - Medium",
+               "type": "url",
+               "url": "https://medium.com/@philpl/arch-linux-running-on-my-macbook-2ea525ebefe3"
+            } ],
+            "date_added": "13219496239753329",
+            "date_modified": "13219496239753330",
+            "guid": "3ad74c7c-d4e6-4d85-9bed-07786377853b",
+            "id": "38",
+            "name": "LinuxonMac",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13219255426964423",
+               "guid": "462377d1-e70c-4829-aae9-ab7360432e2e",
+               "id": "42",
+               "name": "Make",
+               "type": "url",
+               "url": "https://www.selflinux.org/selflinux/html/make01.html"
+            } ],
+            "date_added": "13219496239754236",
+            "date_modified": "13219511242190899",
+            "guid": "983ed29d-7195-41d7-8f73-00f015447ec0",
+            "id": "41",
+            "name": "Coding",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13219828661269172",
+               "guid": "1144b06d-b3b2-4b3e-9b07-7a5bcbd67b6c",
+               "id": "48",
+               "name": "yedhink/dotfiles_ikigai: dotfiles 🔥 includes scripts that makes my life easier!",
+               "type": "url",
+               "url": "https://github.com/yedhink/dotfiles_ikigai"
+            } ],
+            "date_added": "13219829346861361",
+            "date_modified": "13220553076424900",
+            "guid": "38632a8a-d8fa-4c46-af2b-7f947646b8d6",
+            "id": "49",
+            "name": "GitHub",
+            "type": "folder"
+         } ],
+         "date_added": "13219496201161803",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000002",
+         "id": "1",
+         "name": "Lesezeichenleiste",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13219496201161813",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000003",
+         "id": "2",
+         "name": "Weitere Lesezeichen",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13219496201161815",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000004",
+         "id": "3",
+         "name": "Mobile Lesezeichen",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CscBCqYBCIiBAhKfARKMAQgCEk4KBgoCYm0QARAzGhIJAMULim+ZBQAhAMULim+ZBQAiFAnxpnqZb5kFABAEGXY+T5t+6gcoMhgKFggCEZhh2plvmQUAGAAhAAAAAAAAAAASOAoGCgJiZBAAEDMaEgkAxQuKb5kFACEAxQuKb5kFADIYChYIAhGYYdqZb5kFABgAIQAAAAAAAAAAIABIutGhre8tcM+ina3vLRIAIAEqGEk0S2xtRTBhOTR6WFlERFM3WXdsaEE9PRLGAQgCEsEBEmZaOkFEcXRBWncxaEhXU3AxVkx0K24zeE5seFNOa3JJd21ubGhFQ0lNYzg2VlNDMnRIVkxzNHZqaWZFaUM2aWRyeWRneTJONm1nVXFDNnVReVBqejQ0TkloRXNnOWI2b3VOaVNnPT0YACAAKAAwx6qax5iP5gI4AEAAShw1dXN5L2NwZnBpMUV0b0JIRGdYSXMwcWI0ckE9WiYiJIAAAAAAAAAAs7UD9uwyX+AbWfm5aqQ8t4tAbH5eQEWdWDaZfxLGAQgDEsEBEmZaOkFEcXRBWndQYk5Lc3Nua25SQXpXdXdhLzY4bG5QUmpjS2RGbGI4LzhZc3doYWhiWDVoM080ZWFZTDdFUjJubWNrMzE4RTJwZ2MxN2dIY3JQZTREQ3QxU0NXd3lrQ0ZYL09nPT0YACAAKAAwx6qax5iP5gI4AEAAShw3OWwrTFJFVXBpYUV2REQrRzQzY3BYU3R3QmM9WiYiJIAAAAAAAAAAeAIkB/Sbb3ozytQZ3xl0TzwgIWeUO9z1dPP6fxKuAQgBEqkBEk5aOkFEcXRBWnpWaW45UWE4dEtwM214dUs2enhUVXJDTXMzcUxGbFdpYXppeVZuaWNkRHRWRDFDT3RqZW5FS3N6OHliTVBZNTFLZzNURHoYACAAKAAwx6qax5iP5gI4AEAAShxVK0dHSXRaRURwWnNJU2xPVWFJVHVJTGRNbkk9WiYiJIAAAAAAAAAAgImTGzcxK3ZuRlR/lEYxXMMjXjaZIWcuemVKfxKMAggbEocCEqYBWjpBRHF0QVp6ZWppMlVTWEQ2NldqUXBBY3YvaUtlRy9EZFY1TTFWOEU0NUkyZytZRzg2UUtzMXJKVXl5clVIdGVrVnpUSWxTQ0dvK015SDYvVGdZL0wveXJ2RXBIQkZqdG1MRjNFQm1leGdPQkRxbFhldFl3akVVdXZ1bmpOTUVlS2Z4NDRzbFJPeWc5UzNMdk1QcWlWZWpOUGIvYmdzK0ZKTlE9PRgAIAAoADCW1NjS3IrmAjjiw47s6i1A4sOO7OotShx0bURlQi9PNmg0d3hOVnRQTTFuOCtvRUJFTGM9WiEiH///uEJPVlB0eCsrMU9PRzNLSnhOdXV6bHRiams4WT0SjQIIIxKIAhKmAVo6QURxdEFaemVqaTJVU1hENjZXalFwQWN2L2lLZUcvRGRWNU0xVjhFNDVJMmcrWUc4NlFoTUhaeU5FSWxFVjhnTmVkNmVTRldqSERPQmt6ZmR6d0VVc0FVSVQvWTg1V05yRnZzSDFVeGl2S3pyOVpnUW84M1lWYlZySzA5T2s0V3ZIK3V6MG0rdlZVMnQ3Ry84eTArc052UmIzQXJBZ29yZmN3PT0YACAAKAAw67vRtKaN5gI4sZaplustQLGWqZbrLUocNU9vSExZSXVYU2djd1QzdEhjb21nT1RwaWNzPVoiIiD///+0R1FRSEtBSWJKazBaZ01kc0Rrb04xMld3WUpBPRKLAggTEoYCEqYBWjpBRHF0QVp6ZWppMlVTWEQ2NldqUXBBY3YvaUtlRy9EZFY1TTFWOEU0NUkyZytZRzg2UXF4N05PSWIvMWlZY1JGQjJlMUJhb3VpQlNncHkzS0h1bldjTC96THk1U01ZRk9ZYXMrdHRwdHZYbjN5VHRUMEtOVmhkMEFGM3RsdGNheWhCbFg0T3VtSEE4cGR0L3FCTHRhaEhZODk2K25OMjdxM2c9PRgAIAAoADC4wPuuhYjmAjjhnpbA6i1A4Z6WwOotShxneHljalA5SW9qWjZJVmtCSDFGOGQzUnBwQVE9WiAiHv+kQ2Z4NGJpMjhyRU00b2s2TkY5Nm5RYTg1SjZrPRKMAgggEocCEqYBWjpBRHF0QVp6ZWppMlVTWEQ2NldqUXBBY3YvaUtlRy9EZFY1TTFWOEU0NUkyZytZRzg2Uk5zWEZKWUFNV3M3bmhUMmJmS3lreHN4YzFoaUY2N2o4Z3I2a1FqM1UvUk9pM0ZMWForcXVocDRsVjRPVFVTenpPSUdyTFpFblNDWmhGWWlKcys5UmNYUmlxaWdUcitXbitVdC9TempJZU5ybzIvOGc9PRgAIAAoADC+q6ra4IzmAjitrLON6y1ArayzjestShxlSHdyaVpiVVIwTUIvcEUzbnJHelNVQzNUbzQ9WiEiH////TJmVTdBYUJQQVNOU3dJRFVPR21XRVRzVE1QUT0SigIIMRKFAhKmAVo6QURxdEFaemVqaTJVU1hENjZXalFwQWN2L2lLZUcvRGRWNU0xVjhFNDVJMmcrWUc4NlJoc2VtUDNZeUgvTU5nOEtadHJsYUlPZzJuR1orUDJ0UEoyOGh1ajJ2V1crU0h5RTY4SjVyMUE4TzkwN3N3c1d3bmJyWGZxWndWb0lKN0dlN25oaTZJY0xET2VsZktkdDM3RjJ2MnJyU1gxNmVnMGd3PT0YACABKAEwqtj2vvGY5gI4rZSU1OwtQK2UlNTsLUocbE1oanB2NnFWT0QyRUZUZ0VkTDVySUR3VDlnPVofIh30UHEyMTFxVU8xWll6ZlpOMVZFVFpESmVUbUl3PRKKAggmEoUCEqYBWjpBRHF0QVp6ZWppMlVTWEQ2NldqUXBBY3YvaUtlRy9EZFY1TTFWOEU0NUkyZytZRzg2UzBpQjcyUVJHdHZFMDRtOWZmSWl0Y25VUE5LTHNBdGVTOEY4U2g0MURObC9ja2lNQzFpYy9kZWJ1Z3FGT2dsTkZlRFQrY3RoNXRHSkRwN1k2TnJCMXFiUVQrekZyUVNRYnlNVUFxdTBvVVhCVm9hbGc9PRgAIAAoADCIwNX/04LmAjiPmvvn6S1Aj5r75+ktShxxOXNJYUFnL1IrdDUwTGMvOXU5SUo5N3E4RXM9Wh8iHdNyK0xBZ2VZK0RpVlZVL29kUU5BS3lFN05CSTA9EokCCCgShAISpgFaOkFEcXRBWnplamkyVVNYRDY2V2pRcEFjdi9pS2VHL0RkVjVNMVY4RTQ1STJnK1lHODZTZVZqVHpGbUpEK05LV25YVlJWbVE3SGxmZ25VZFYwQjVWZzJiVmNuOUhmdkRBWDRmVElGdmd6Ti9xSHNmMVZvVU0yRnBlbmQzekxTUi90d0tvVG43amErTjFEeXNNZFNyVk45Y05hYmRVejJ0QnRXUT09GAAgACgAMJOsgKjUguYCOK7EgOjpLUCuxIDo6S1KHElEZUthdGkyTlhqVjJWWGcxTnVEalRzZkJTMD1aHiIcV0FOZ3NrNzF0Z3dEckNwWnhOa2tudzRpcVlJPRKNAggkEogCEqYBWjpBRHF0QVp6ZWppMlVTWEQ2NldqUXBBY3YvaUtlRy9EZFY1TTFWOEU0NUkyZytZRzg2VEY0aWhQNTVDOE1kbWhPbEtPV3I3d09oV21wc0g3ZXYvN2FnOWZjSWl6bnNzVDNUSDExMlJhUW5VandHdlhxdGZBenZlRTJWNWFCaHd3RyswcVo2US9pREFzcVc5Y2JLMVJHcHByZUVEN0ZVVGZJUWc9PRgAIAAoADDvw9LynI7mAjjX0b6l6y1A19G+pestShxxRjBtemJ5U0Viak5tUUlpcVdUWEwweFV1djQ9WiIiIP///9pOVzczTHNnYkJxeXFKVVJPeXdZaEcwdUZIQzg9EosCCBkShgISpgFaOkFEcXRBWnplamkyVVNYRDY2V2pRcEFjdi9pS2VHL0RkVjVNMVY4RTQ1STJnK1lHODZUcWFjTXVMYTVvVFRuUTVSMnNqb0t0d1FZeGFzUktTc2kzU25lWEMxOE0ybFRsM0VMWXpvRDdmR1NPZmh2ZnlDYk1rVmk1MGE3MVFnb1R3ZmlMMDRLVGYvNFNka1VkV3lXNWlpSGN5ZmJnN3k4MytQdz09GAAgACgAMO2v1ODIiuYCOL/QyOnqLUC/0Mjp6i1KHFllcEJ1TWFuelp0YXVJSjRvemZsWjhJWjA2RT1aICIe//4zOFFUNW1URUlMZFlKZVVhZjhlVURGaEpSaFU9EosCCBUShgISpgFaOkFEcXRBWnplamkyVVNYRDY2V2pRcEFjdi9pS2VHL0RkVjVNMVY4RTQ1STJnK1lHODZVQ3BPcHgvb0dScXg0cHlMa1cwNEN1UG02Y0pUWWtGZjE5V2tQcXUzNWtuL0oxRjNmTzNaeDl1ZUNvcTJOdFRhOFl2UHQzcFhZUjMyYUJ5OTltc3RrRkZrYnZ2MDRkYk9HWVk1RHRDODZ5eXV4RWc4UT09GAAgACgAMISmuueZiOYCOPv15MLqLUD79eTC6i1KHCtZK01BU2ZQSkxjd1Q1aUo4WGM4Rk8vcS9JYz1aICIe/+lzc1duUnliUHpPdDNnckZrWk9UY0dvdHZYQU09EowCCB4ShwISpgFaOkFEcXRBWnplamkyVVNYRDY2V2pRcEFjdi9pS2VHL0RkVjVNMVY4RTQ1STJnK1lHODZWYTE1UWJ0SWgxcXJ2SktJT3dJdk5XZE9RcGNVMDBlTXM2V1pMVThhZk9kWm0vakZhK1RrWStsTVlGV2xRWmxJS04vWmhLaE1BNFkxdHk1dXJOMi9iTG1hT1dHdUJGb3A5eklXZW5QRGUwNDZNY3pvUT09GAAgACgAMNmmu5u5jOYCOIOprIjrLUCDqayI6y1KHG9KTFBnTDJpS2FJYklLUlpjU25kWWhyWVVKMD1aISIf///3OWg5N21SdW9scm03dzM2RHh2V0JGSmJQcElFPRKNAgguEogCEqYBWjpBRHF0QVp6ZWppMlVTWEQ2NldqUXBBY3YvaUtlRy9EZFY1TTFWOEU0NUkyZytZRzg2V0FYNTIyRUpUOFh0ZDljSXF2UE95N3p4SFdkdnpsU2Y5WGtpY01TZXcvakpsbno3ZnFJYW9NaDFjajYzQXRkYldydENPUWU3Uk4xV3ZNT1Z1OHRwSUI3aHpDK2tIK2N6ZEVob2VCMk1MTEhTZmJjRXc9PRgAIAIoAjCI1L+Jy5bmAji4uLyu7C1Awri8ruwtShxiRjFWU0hMc3ZxajJiY20xS3ZGanBBaERxRW89WiIiIP////tJa1ZVVGhHSFVmczZsOTBOVHRFdXZaRFBhWnc9EowCCB0ShwISpgFaOkFEcXRBWnplamkyVVNYRDY2V2pRcEFjdi9pS2VHL0RkVjVNMVY4RTQ1STJnK1lHODZYaFJBVjRvN0tpWTdLTkUvQVc5cTZQeXd4Wjk4WGFCeG84RCtCVzRZY3ptM2lPck1paVA2cGVXWGgxaDdMTlpjOUVEVXlVY2d4WnRZRVgyNCtQZElvQXpOTi9sYjkvc0ZxRWRVT1NkbC9vejZIRHNtdz09GAAgACgAMIrK9J7Li+YCOPHBovrqLUDxwaL66i1KHFIwVGZlbFhObFFSTmt4blJCelJCZk9GTWZsVT1aISIf///uTnZGYnA3WG5uSzNtUlpnOWxuTXlCTGMxZ29ZPRKNAggzEogCEqYBWjpBRHF0QVp6ZWppMlVTWEQ2NldqUXBBY3YvaUtlRy9EZFY1TTFWOEU0NUkyZytZRzg2WUxkc3ZMK1VPWGNUNWRTSk1JV1U0S250R09LZ3QwMWJwb1VaS1M5R2sxZTc4MzRQS2loUFJKdkFMTnBYN2ZjaGxZZXQ3bFJPR2d2WE5qVWgvK2t5em5seGNMYjhzKytHLzA5WEp0OGgrWVlrSEozdkE9PRgAIAMoAzCr5YnP+a3mAjjJjaGt7y1AzsGhre8tShxEZGdHQ0hsaisxVmsrMlZYanNIdFNrZzFjc2M9WiIiIP////11Nml0T01qRkhtSE5qYmIzZE1hblM0c04rWDQ9Eo0CCCUSiAISpgFaOkFEcXRBWnplamkyVVNYRDY2V2pRcEFjdi9pS2VHL0RkVjVNMVY4RTQ1STJnK1lHODZZVzNTRUNCNUxCYmlOYVVNNDFSNHgvakU1V2xoMTNQU2VEdzFsTkYzYmtaUmJsUUZxNzdsM3dCc1hSY3hZekdUMlMwYXVoTDNDS2JPc1VPQVBLb0lXaWVrLzJ1cVRTYVpIWGZLTkVadTNyOG9nSjZSQT09GAAgACgAMOmtjImHj+YCONKhirPrLUDSoYqz6y1KHEhtU0tEaFk2S0ZxVzBVU0lxc0h5eHZxcEtlTT1aIiIg////7WNzcE9ZaXZ4RHlHbmY2eUd6RDFUaDNPb1dPND0SigIIERKFAhKmAVo6QURxdEFaemVqaTJVU1hENjZXalFwQWN2L2lLZUcvRGRWNU0xVjhFNDVJMmcrWUc4NlpCVkZ3S25WSm5udFFUQWluNWpVM3NDMVM2SmFseituei9RWWJldkthczg2aFR5L2tuVnVGQnVtNDdLc3ByY0NyMFJ5Sk5ocXp4MVlTWkNKb2loMGd3ZUZVcy9ZWXhrU0k2NVR5bk1CbnViMy9NNmtBPT0YACAAKAAw/ojKluCC5gI4ve++6ektQL3vvunpLUocQnhPczdEUm5ycTNsYnNxeE5EUmZZdUc3UFNzPVofIh3+MFEwU3NCOEZXb2R6emhEcnRIZUFDQ2lKR0hJPRKKAggSEoUCEqYBWjpBRHF0QVp6ZWppMlVTWEQ2NldqUXBBY3YvaUtlRy9EZFY1TTFWOEU0NUkyZytZRzg2YTQ3NHVjU3l4SXJqY2NjVytjR3ZJRmRDT3JCKzI3YnVnTjlnUm5xQ0xHNHRtSTdxRHhEdXFCRFpudFM0L2VCK3VMRGUxVFFrZFRabHIzN1RpeFRSRjBrb2wzOFRzSHJMRzFoV1R2OXhLUjhHMXlmQXc9PRgAIAAoADD2pNO9zoXmAjjk4rCY6i1A5OKwmOotShxlVEFTc3I3eVMvS2x2VW9DR0NGRzg3bXpNSE09Wh8iHf9JSWxldnJ6cWNFOW9YZ2lFNUxlQ09DSnRSVjA9EooCCCkShQISpgFaOkFEcXRBWnplamkyVVNYRDY2V2pRcEFjdi9pS2VHL0RkVjVNMVY4RTQ1STJnK1lHODZhZ3VwOU1HdkxJb3pYd0hWZ2FtTXAvNVZyN0ltR2prbmJoQXNMaUxSRUxJNWZ1T2kwVTBXczZGOTFRRkU1OXFPdkVlTlpicHc2dTVuSHJHU2Nsb1Jzd2JDcTVrT3loSDNlQ2JOK05ON054MGhzUWZUUT09GAAgACgAMLziosSXiOYCOOrvv8LqLUDq77/C6i1KHFd1VHJlazcwcm0rbHpVS2pzWHp0NXh1M0UxUT1aHyId6Xc3UlB3Tnp2WXE4ajZPT2ttU042VUwwL1BKUT0SiQIIKhKEAhKmAVo6QURxdEFaemVqaTJVU1hENjZXalFwQWN2L2lLZUcvRGRWNU0xVjhFNDVJMmcrWUc4NmFvMnhLZVkveVVOK0VLd3hxcWdZVjk5cVlJV0FVTkVSa2ducHFXdHdmVk01eUhqUWF2d05ZRGZVeDBrTnRXb3ZxeUZ5TGhyTEFneG9yd3MxclBDd2p0dmNBckZ4bUVMRGNOSjZ6NmhWUmtPUmEzeFVBPT0YACAAKAAwvOKixJeI5gI4lO++wuotQJTvvsLqLUocRC90TXhKSEtHM25Gb1ZGa0tHYkRMQ1EzU2s0PVoeIhw1bjlLc1J3a3VicHdtOTBabDd1QzF4eC9Fbzg9EosCCBYShgISpgFaOkFEcXRBWnplamkyVVNYRDY2V2pRcEFjdi9pS2VHL0RkVjVNMVY4RTQ1STJnK1lHODZhcW1FbFNPdkluYUJaNWVGK00ydzNqajNUL2JPa0hMRlNpOE1mUXNKNjByZFUrR2o1aUhybGpsL0R6RG5sb3diUXg3ajFFQ0hWZWlrUXNmR2w3V1lZNkJ5YUdhd0preWdIbkl0RHlReHVYUW5tVGhmQT09GAAgACgAMLv8/ZPXieYCOJ22g9vqLUCdtoPb6i1KHDVsK2ltUTVzZ1QyUmc3ZEc3YjRrK3VCZG5yZz1aICIe//RHUVdBb2czb28yK2xWSm0zdXA1R1NnUTZjY1U9EosCCBgShgISpgFaOkFEcXRBWnplamkyVVNYRDY2V2pRcEFjdi9pS2VHL0RkVjVNMVY4RTQ1STJnK1lHODZiM2xjdnhEQkh5SDdoWGlrOGdOZExQdGFpMnpDTGRUZk1IbjJ0WjhBaXdQeEp3K2txSk8yN0hnS3g4UlVtTTJhY2NaRlg4VlprVXV2Nld3bkdvU1NZTW5Cenc5ZWVZTWx4YU5Xb3ZzNVpaQnR3N1d3Zz09GAAgACgAMLT4sOzlieYCOMaP9NzqLUDGj/Tc6i1KHEhVME5wVU4wREtIOXpjNHhHN0dMczdjTWFZTT1aICIe//1BcmNYMFByVU90SVYrVmprVlJYRWlKUVBFeTg9EowCCB8ShwISpgFaOkFEcXRBWnplamkyVVNYRDY2V2pRcEFjdi9pS2VHL0RkVjVNMVY4RTQ1STJnK1lHODZiQmgxL3MvWmN1cGQxL0tHdENkZjZJemtGSkpuK2tSdXRJcjlZSG9saFZIQzB0cUI0ekFBT1N1aVA5RjhTdzFOWWxaV05uTWxYWmxncXYwTXdWZmE4dG5ZNHd2bjk5ci9ONGQ5dW14NmllYk1mbm5Jdz09GAAgACgAMPiR2oe7jOYCOL3HyojrLUC9x8qI6y1KHGJqeFU1RmxTRXhCY2JoVS9QWFJSQnRRNE9Ucz1aISIf///7Uk1sTmtOSk56ODI5UXNNaGtmMHJrVk5yT3owPRKLAggaEoYCEqYBWjpBRHF0QVp6ZWppMlVTWEQ2NldqUXBBY3YvaUtlRy9EZFY1TTFWOEU0NUkyZytZRzg2Ykp5OVZENloxU1pnUjh0Mlkyd3JYMjhuWDc5WnppaVZsTHdwbHlyT21wNXJxdUtKalVkL092dEEyY2UxZ05VOGFnaG1rTXNZRmJzNTJxWVdmR1JqOVdsTk50dEtKcXVpVm5OUGZTQXhtdXQxemYvS1E9PRgAIAAoADDejtyv04rmAjiEzPbq6i1AhMz26uotShxEZ0JjMGR2Uy91ckdjdTVuYXVHQjNJM3JvbWc9WiAiHv//cUN2TWFBL2R1c2s4LzJWeFJTOWZQc0pLVmt3PRKJAggiEoQCEqYBWjpBRHF0QVp6ZWppMlVTWEQ2NldqUXBBY3YvaUtlRy9EZFY1TTFWOEU0NUkyZytZRzg2YmdMNzM2dlZFUzdsZ2pKV2VaYTAzaEpQNGUwMHFUNXVScjkxbUptdlNnbjl5RVMyL0lsNjZRMGh6OFl4YzIzTjF2L084bWRlVS9Yd255VndiYlNjQ1A0ZHN4YVBIVlZhRGp4RXJCcjkrdEk4R1ZtYnc9PRgAIAAoADDvyYaSkY3mAjjWhsyT6y1A1obMk+stShxQdkxTUlRibHMwN0h1c3RmbldlUGtKUGJmaTg9Wh4iHEVhdS85MW80VjBNNnZoU3hWUUZYMkZPYUtRWT0SjAIIIRKHAhKmAVo6QURxdEFaemVqaTJVU1hENjZXalFwQWN2L2lLZUcvRGRWNU0xVjhFNDVJMmcrWUc4NmNTSFh6eTltSmtrUm5YN1pSMjh2WmFXVWhPb1RQYVYreU5sU0ZIV3BWNW5TczJ0L1ZoSEVISGZmSHh6aVdlOUtjQnlkQ2E5a1lla2xlMVdyRlFDbW9uUytaeHlFWHlaNHU1b29ubysyY0M3YzQ1anZBPT0YACAAKAAw78mGkpGN5gI4z/DMk+stQM/wzJPrLUocbHJzTEpKNzNoSTNEZ1dLS0ZjY1Iyc0h0UndFPVohIh////9oSjhDTGkvRE1jbmVxMUhJQnpIR21kTm1mTG89Eo0CCCwSiAISpgFaOkFEcXRBWnplamkyVVNYRDY2V2pRcEFjdi9pS2VHL0RkVjVNMVY4RTQ1STJnK1lHODZjeHB5Mzh6ZGMwbGhBN1BVbURxZm9GMnR5MmdYRXFveFZMbmN3bmQzK1ZRVC9tbTdTa2RzVGpwMjR5S1pwNGsveitQYnRCNjhLa01SUUlLNVN2Ry9sWWRLczIxOXFzTmlXR1NDVGtzTXdCdjZlZmg3dz09GAAgAygDMMiw0LzQj+YCOM/LvLzrLUDC7by86y1KHFhvOFVSRXRqdW4ybjB6b2NCN3ozZWdUbDg0OD1aIiIg////9nZhZW1VbURnaHV4VDh2M2JpdTB1MndORURsRT0SiQIIMBKEAhKmAVo6QURxdEFaemVqaTJVU1hENjZXalFwQWN2L2lLZUcvRGRWNU0xVjhFNDVJMmcrWUc4NmVCNExUWmpGK3FnK1BhbFp4OERSeXVDSnpOTXU5bWVwaDhJUmRIMVBTOEM1eCtzTm1YNGF1MlZDOTlzM1dFM1drZFhwWitjOXovNEp3Vkx1VkJRZDFDaHh3WEMzV2RkUldGWDRneDNySGVQbE9NRm5nPT0YACADKAMwqtj2vvGY5gI4lajq0+wtQK2UlNTsLUocTy9OMTlRdDd4eUxvZlcrRDM3eHRCL0dkVVRnPVoeIhxvbDhUTFBORWJSRXJXUnZzWnZscll0R25Pcms9EosCCBcShgISpgFaOkFEcXRBWnplamkyVVNYRDY2V2pRcEFjdi9pS2VHL0RkVjVNMVY4RTQ1STJnK1lHODZmZzQrNEJjam9CbXZtMExadlcxSTlra3dvZm9lNy8zRVBzcEg4SnZFa21GaDRUaWhDdllxQkJrNlVHQVV5bjhQTCs3YnlpbHJMZzhBZW5aUVNRdkRDKy8zajBiWG1Mc09KZUVNR0JHUzAyQUxzTk92QT09GAAgACgAMIiHks3bieYCOIakzNvqLUCGpMzb6i1KHGM0TEt5bDZEbkdKVmNCUkNSb3h5OG51OEcyWT1aICIe//pISnVJOXhseGthblFFcXpudU5tTTBtYTMzVUk9EowCCBwShwISpgFaOkFEcXRBWnplamkyVVNYRDY2V2pRcEFjdi9pS2VHL0RkVjVNMVY4RTQ1STJnK1lHODZmaE5yOGc1MkJQMVV4aXVEN2F0S3A0dTJpaXU0clJiU1BCaDFKWFVlOGlmQ3lKc2sxaStyOWJ1TVRtMURRdnB3d2FNODZ3NlgvSThEdXVPclJjMVBzd1kzWUhUalVFVmZBVVVUek5URExwZnJKTmtNZz09GAAgACgAMNe3kIPliuYCOMzll+3qLUDM5Zft6i1KHDlQbzNISXlMWEJRb2FIdTZxZVJRU29HL29tWT1aISIf///cdXRxZHpGTmx2VWFkejdoZXhVSzUvM3JWU1RJPRKLAggUEoYCEqYBWjpBRHF0QVp6ZWppMlVTWEQ2NldqUXBBY3YvaUtlRy9EZFY1TTFWOEU0NUkyZytZRzg2ZnprVDRCZTVVMlNSYVZILyt5aWNPUWk5QVFEbkdwbmVhWDVPV0I0bVp4YVFMUngvMExPdlcveS94elhGWDJubEJBMENKR3NOU3Q2OXBzZjZUa3YzaEF6MzJ2Rm1rU200MExCcGc3NEtaM2FVNlphR2c9PRgAIAAoADCyk8TvkYjmAjjEjePB6i1AxI3jweotShxzQjBYZ0xMVUJZYnhDeDNYR3lZR3RTSFpieTg9WiAiHv/Sek83aG14cndLdXl6a3RRVVRCSktWUlB3VytjPRKKAggJEoUCEqYBWjpBRHF0QVp6ZWppMlVTWEQ2NldqUXBBY3YvaUtlSnkrZFVzQ0Nualg3Tm9pcEJEZ3IzaGRMSEV2Z3pqaFhqOXY5SXhUd2tEd0J5dGxORWZqR3h1YVI2emFobkd1V0s0QkVQQUxlVFRzbVZvTm1tZWJxbUlIUjlYQUdQUitmeDB3WFlWYmZ5YncyL0wwNEFzVmQwSzZuTE54YkdiZWRXVkxFQXc9PRgAIAAoADC4iPfdhfXlAjiCm/mI6C1Agpv5iOgtShx0Vm9SN2pkSXBSMUUvY2dHUS9LaEhzdWQvbUk9Wh8iHaY5eVpSNjJ4M3pHVVFMWVVzZm1pcjV1RGRQRVk9EooCCAwShQISpgFaOkFEcXRBWnplamkyVVNYRDY2V2pRcEFjdi9pS2VKeStkVXNDQ25qWDdOb2lwQkRncjNpYlluSWhTcnJXbE1ONGtpeFVwVS9nSTg3c3NxYnZGYmc5NjV6dlJNYTRBbEZ0YmorS0wzOXQxRTFZQjhEMmxMU2xqSW1SazRvY1UrR3JMdjEyTGxCejBvM3dzejUzMzlnM3BzUUxHWHhtY0JmeWVrdz09GAAgACgAMNmVpNjI++UCONjL6fPoLUDYy+nz6C1KHGFHVUdod1JWZENvQzQ3bGM1d0NjcFNmOVh2MD1aHyId201ZTnRxTk91WWREWC9xbmlBenpQdWhhT0R5Yz0SiQIIJxKEAhKmAVo6QURxdEFaemVqaTJVU1hENjZXalFwQWN2L2lLZUp5K2RVc0NDbmpYN05vaXBCRGdyM2p4SVpyUkQ0eThSOTVzTjlVZWtxcWVRT0R5anNiczBwZkhud2dJYXAzMUpSTnJUUzh1cUxRNHZ2V29MRWtCcGdGVEpISEFzK1B4bVZXL3FUbUlaS3UzNGpEcStRZGQwcVhTRHdJQ3pVcm84U081RklBPT0YACAAKAAwiMDV/9OC5gI48KLu6eUtQPCi7unlLUocdjZIQVplOWZVSVRFVzBjZ2dTdjJWR1RBUXNzPVoeIhxFd3IrRUpHUFRxdmFvYytqdnliQVZFRjVWMlE9EokCCAoShAISpgFaOkFEcXRBWnplamkyVVNYRDY2V2pRcEFjdi9pS2VKeStkVXNDQ25qWDdOb2lwQkRncjNua0pHY21INmRTaFFFZHllY1R0enRtc3lsRFVhdVM0TjFud2FrWGdVMlliY20rVFBNMlZ3TUZ4ZWpVZlJWSEtjNnpOUnl1bUw5ZWZPK2pXUmsyRnZIcVBIQlBtRU0zVFozcVdac0RKOVgvSExZamdVQT09GAAgACgAMLfnjuTNheYCOI7i94joLUCO4veI6C1KHGNBL0VEOFNzOUtZWjJtUFNlNHZuajdIbWNLMD1aHiIcbjhGMVZRL2hERks3S01KOGxqRFJOY000UUM0PRKKAggLEoUCEqYBWjpBRHF0QVp6ZWppMlVTWEQ2NldqUXBBY3YvaUtlSnkrZFVzQ0Nualg3Tm9pcEJEZ3IzcGs1ZXhDYXI3ekhmWTNIbWd4RW5taHBEZmJBalloOGdiL3hXYndHYi9qMEVoVlNLWUNEZ3FQdzFWTU9lR1FOOW9vMTlCUkd1K2lya2VSRUpOZndkSXRXRmpGZXhRaTdpd3FTSFF2MkhxTm5vZjZ5cGc9PRgAIAAoADCHtvT8gvrlAjjfjsLa6C1A347C2ugtShxXNHJKWnhxZktBVzJ4THJtM1FWQ0xpN1Q3M1U9Wh8iHbczMUpzN3JudHhGNDV4NnpNTmNsM1plTlNKNzQ9EooCCAgShQISpgFaOkFEcXRBWnplamkyVVNYRDY2V2pRcEFjdi9pS2VKeStkVXNDQ25qWDdOb2lwQkRncjNxM3R6WHdoM1c3aDh4ajRhZTZreW5qSXdsWnpNOWNnVVd0aW81emdGV1FBTWRnUldwL1p3cFA3Y1g5QythM1JXSHNrcVJ4RHY0Z2d1WWRjTlFxbDBWTGlYaHd1NWxvTGNXVWJRbkRSdkRTUzBPUDNtdz09GAAgASgBMNW75rr5reYCOKS9v9XmLUDW8J6t7y1KHEhGNkpOOTlDaTlaS0ZTeStRTVhjaEpqSm9Mcz1aHyId3lc5UUNteXQ5OFNxeXQ5RlZOY3BCNE9OV2g2Zz0SiQIIBhKEAhKmAVo6QURxdEFaemVqaTJVU1hENjZXalFwQWN2L2lLZUp5K2RVc0NDbmpYN05vaXBCRGdyM3JZNEF2aHhlRFVFOTBXL3JpM1M2T0JZSmlWUGUwdVlLTUI0c1IxY0N0TnMrV3ZkSlMyMzVQMDNyQXBzcGs2cXd0cURGMTFHRzRFVm5iRTJIZjQyTkozNXh4S2hpbnNpVHYxb29KUWl1S3BWQkJXRXRRPT0YACABKAEw1bvmuvmt5gI48KLu6eUtQNTwnq3vLUocNlpBb0lCbTNUK2ZaN2NsOHBYKzMrLzhXOUN3PVoeIhxZU2RLZ2RUQUtBaXN1NGh6OTRYZDZVOUorQWc9EokCCAUShAISpgFaOkFEcXRBWnplamkyVVNYRDY2V2pRcEFjdi9pS2VKeStkVXNDQ25qWDdOb2lwQkRncjNyd1ppdHdsa0NNODI0NWlBanFjZDk2TTA0UVV1QUM2ZVdvNlJrWllZMnJkYmVjMVlsWGRIcU5USmo1V2lzMXlueFZkaW9GSmZCS3lRd2RnQ2tjc2w2MGxxQTl3a29OVjk0cGxrR0V1dHdiRUNvNWxxZz09GAAgACgAMOeZlfnC4+UCOO+i7unlLUDvou7p5S1KHE9NUm5JQjRFdEZKWWltbkVNekZDOUZFQmdzQT1aHiIcTWhEbXVKOGd6WnduRVdqMkhURmU4bThVMEhVPRKKAggHEoUCEqYBWjpBRHF0QVp6ZWppMlVTWEQ2NldqUXBBY3YvaUtlSnkrZFVzQ0Nualg3Tm9pcEJEZ3Izc1FUd1JVeXBuYVJ5anlNc2ZkYUJRcUppdHlBMDhMR1FMMmtDVWN3Q3pQblZ6V1JxdnVBdjhqYS9HOWFCRDFPTnprZzRtaFVFQWpRSng3ay9vRTN1dmRDVVRGVTF5SEh6c0xQblFWTEdCKzl3SFZ3WEE9PRgAIAEoATDVu+a6+a3mAjjwou7p5S1A1fCere8tShwwclgrRWdCNFljWjBYdmNWWjdyYnFnMzlnTGs9Wh8iHbxNempOMklPUU1qVU1SMGkwNk12T2FBTEx3YnM9EooCCA8ShQISpgFaOkFEcXRBWnplamkyVVNYRDY2V2pRcEFjdi9pS2VUU1E5TVIxYkdTYzVuTkYyUmpYOTFoTUZhdzRnUHk4QnVMZEQreHNIejRUcisvWDNSbzB4c1NVQ3VvL3NHVFVENXVWb0QrUkNDNjRzaWpLRFZ0OVlZVUZYM3REelR6V0p0QTErVVEzdkZJWXgzZVZDb0l3Wi9NWlp1ekFWM0tXWEhScVQxQT09GAAgACgAMIb90YuI/uUCOL/k2pzpLUC/5Nqc6S1KHGlkb1FBSHlQM05CMXpkME9rSzhBak5qZzZFOD1aHyId+2FpYTNxamlycUhMVFAxcTdEb21wMHZ5YW9Rcz0SigIIEBKFAhKmAVo6QURxdEFaemVqaTJVU1hENjZXalFwQWN2L2lLZVRTUTlNUjFiR1NjNW5ORjJSalg5MWpTanU0WEt2cGR4QnhJNlVQWXU3YVd4M1VMQkZlOWVBWmQ3Q05oemVVT2NXaWtjd1NhdGhGQjNvbWNpVDNIQ1R6dmZ4UHAxWGpTalJJZXQ1NTNzVVJwTnJjWThFYmdMQ2RicjM5Z2ZnZnI1ZldZY1l3PT0YACAAKAAw7bzn0In+5QI4lIP0nOktQJSD9JzpLUocblVnQ2Y0RkZTN2NKWjRldDEwRW82d3g4ZUp3PVofIh39RWhQZGRVQXdQOTdZWFg3UVFycWpmcnIvdCtVPRKKAggNEoUCEqYBWjpBRHF0QVp6ZWppMlVTWEQ2NldqUXBBY3YvaUtlVFNROU1SMWJHU2M1bk5GMlJqWDkxbEtVL1lqV0VZMnZ5M21scHV1bDE3bmdNVUd3ak5IelZkQW8zV1BGYzk0ZTdPT1JuNFhOOHlsdEt0RjluMHZoRDFpWVkza05mWFRXaTMvb1M1MFZFRzZYSXRrYVRHNTZxVHlsRlNoMEZFaGZnQ3JzbUE9PRgAIAAoADDwiJbQwPzlAjjU2ZaD6S1A1NmWg+ktShxvSy9USTBub1k5MStIejhZZTBKMXE3cUZ0ZUE9Wh8iHe1VYXJMdzBhUDArYjJ2MmswZUhkL256NThuQUk9EooCCA4ShQISpgFaOkFEcXRBWnplamkyVVNYRDY2V2pRcEFjdi9pS2VUU1E5TVIxYkdTYzVuTkYyUmpYOTFxQVFIZ0dSNWk0V2JwcWlFYjl5bEsveWJWN3F0b2xycUJQK3MxM0JJS2RrdDBpbndRMnpDNkQ1VkZxajN3VUFYN2FvY1l3WStUU1JSUUIxQlRsUXJia0IzMG80ZmYxdVpRNW9hejdHVWtjM1hVQjcvZz09GAAgACgAMLvjn72B/uUCOMS47pvpLUDEuO6b6S1KHDB3aUZ6SXRheVNNZm8zYVhzTWN2R3YvakJpRT1aHyId9msxTGtnU1dpd3Z4OWprY01HaDVmaHNkWXcwTT0=",
+   "version": 1
+}

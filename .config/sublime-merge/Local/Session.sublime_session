@@ -1,0 +1,32 @@
+{
+	"last_version": 1119,
+	"project_dir": "/home/xmeise",
+	"recent":
+	[
+		{
+			"ignore_diff_whitespace": false,
+			"location_bar_visible": false,
+			"path": "/home/xmeise/Downloads/rammschkiste",
+			"table_of_contents_selected": false,
+			"table_of_contents_tree_mode": false,
+			"window_height": 747.0,
+			"window_width": 1276.0
+		}
+	],
+	"select_repository":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"windows":
+	[
+		{
+			"path": "/home/xmeise/Downloads/rammschkiste",
+			"position": "0,0,0,0,0,0,51,1276,798,1280,800"
+		}
+	]
+}
