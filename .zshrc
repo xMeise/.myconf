@@ -111,6 +111,14 @@ alias c='clear'
 alias rr='ranger'
 #alias cd () {builtin cd "$@" && ls -a;}
 
+# alias needed for github .dotfiles
+alias config='/usr/bin/git --git-dir=$HOME/.myconf/ --work-tree=$HOME'
+alias ccs='config status'
+alias cca='config add'
+alias ccm='f() {config commit -m $@};f'
+alias ccp='config push'
+alias example='f() { echo Your arg was $1. };f'
+
 [[ -s /home/xmeise/.autojump/etc/profile.d/autojump.sh ]] && source /home/xmeise/.autojump/etc/profile.d/autojump.sh 		#needed by autojump
 autoload -U compinit && compinit -u
 
