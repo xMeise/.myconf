@@ -36,6 +36,7 @@ rofi.color-urgent: #282a2e, #c5c8c6, #8c9440, #c5c8c6, #78824B
 
 rofi.separator-style: solid
 rofi.sidebar-mode: false
+rofi.width: 800
 rofi.lines: 5
 rofi.font: Source Code Pro Semibold 10.5
 rofi.bw: 1
