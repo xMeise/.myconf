@@ -6,9 +6,9 @@
 #
 
 auto-reload yes
-macro y set browser "mpv %u"; open-in-browser ; set browser "firefox %u"
+macro y set browser "mpv %u"; open-in-browser ; set browser "qutebrowser %u"
 cleanup-on-quit yes
-download-path "/home/mohabaks/Videos/Podcasts"
+download-path "/home/xmeise/Videos/Podcasts"
 feed-sort-order title-dec
 max-downloads 4
 notify-always yes

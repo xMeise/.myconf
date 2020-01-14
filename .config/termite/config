@@ -1,11 +1,11 @@
 ## Termite Styling Program
-## Author : Aditya Shakya
+## Author : xMeise
 
 [options]
 
 allow_bold = true
 audible_bell = true
-browser = xdg-open
+browser = qutebrowser
 clickable_url = true
 cursor_blink = system
 cursor_shape = block
@@ -26,9 +26,6 @@ highlight = #30343e
 
 [colors]
 
-# https://github.com/chriskempson/base16-xresources/blob/master/base16-londontube.dark.256.xresources
-# Base16 London Tube
-# Scheme: Jan T. Sott
 foreground=#d9d8d8
 background=#231f20
 cursor=#d9d8d8

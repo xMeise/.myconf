@@ -1,3 +1,5 @@
-2019/11/30-15:20:12.309 33e Recovering log #3
-2019/11/30-15:20:12.429 33e Delete type=3 #2
-2019/11/30-15:20:12.429 33e Delete type=0 #3
+2020/01/03-15:01:09.200 8db Recovering log #8
+2020/01/03-15:01:09.200 8db Level-0 table #10: started
+2020/01/03-15:01:09.259 8db Level-0 table #10: 632 bytes OK
+2020/01/03-15:01:09.388 8db Delete type=3 #6
+2020/01/03-15:01:09.389 8db Delete type=0 #8

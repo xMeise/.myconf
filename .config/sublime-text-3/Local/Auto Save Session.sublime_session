@@ -3,10 +3,212 @@
 	[
 	],
 	"last_version": 3211,
-	"last_window_id": 1,
+	"last_window_id": 3,
 	"log_indexing": false,
 	"settings":
 	{
+		"new_window_height": 756.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"rng",
+						"rng"
+					],
+					[
+						"ws",
+						"ws3"
+					],
+					[
+						"termi",
+						"termite"
+					],
+					[
+						"as",
+						"assign"
+					],
+					[
+						"i3",
+						"i3b-gate"
+					],
+					[
+						"run",
+						"run-command"
+					],
+					[
+						"lab",
+						"label-bat"
+					],
+					[
+						"la",
+						"label-bat"
+					],
+					[
+						"l",
+						"label-connected"
+					],
+					[
+						"date",
+						"date"
+					],
+					[
+						"ter",
+						"termite"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/xmeise/.myconf/COMMIT_EDITMSG",
+				"/home/xmeise/dotfiles_xmeise/.git/COMMIT_EDITMSG",
+				"/home/xmeise/.zshrc",
+				"/home/xmeise/dotfiles_xmeise/scripts_xmeise/i3blocks/shutdown_menu/README.md",
+				"/home/xmeise/Downloads/dotfiles-master/polybar/.config/polybar/config",
+				"/home/xmeise/.config/polybar/config",
+				"/home/xmeise/.config/polybar/config.ini",
+				"/home/xmeise/Backup/i3/config",
+				"/home/xmeise/.config/polybar/launch.sh",
+				"/home/xmeise/.config/i3/i3status.conf",
+				"/home/xmeise/Downloads/rammschkiste/usefullLinuxProgz.txt",
+				"/home/xmeise/.config/i3/config",
+				"/home/xmeise/Downloads/temp/config"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"comp",
+					"bar",
+					"icon",
+					"font",
+					"batt",
+					"underline",
+					"format-underline",
+					"date",
+					"pacman",
+					"ups",
+					"exec",
+					"auto",
+					"autostart",
+					"font",
+					"mod+2",
+					"rofi",
+					"                 "
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1276.0
 	},
 	"windows":
 	[
@@ -67,7 +269,7 @@
 					"file": "/home/xmeise/.config/i3/config",
 					"settings":
 					{
-						"buffer_size": 6890,
+						"buffer_size": 6965,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -122,6 +324,7 @@
 			},
 			"file_history":
 			[
+				"/home/xmeise/.myconf/COMMIT_EDITMSG",
 				"/home/xmeise/dotfiles_xmeise/.git/COMMIT_EDITMSG",
 				"/home/xmeise/.zshrc",
 				"/home/xmeise/dotfiles_xmeise/scripts_xmeise/i3blocks/shutdown_menu/README.md",
@@ -137,7 +340,7 @@
 			],
 			"find":
 			{
-				"height": 24.0
+				"height": 26.0
 			},
 			"find_in_files":
 			{
@@ -194,15 +397,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 6890,
+								"buffer_size": 6965,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										6884,
-										6884
+										237,
+										237
 									]
 								],
 								"settings":
@@ -212,7 +415,7 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 1047.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -279,7 +482,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 24.0
+				"height": 26.0
 			},
 			"input":
 			{
@@ -313,11 +516,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,0,36,1276,798,1280,800",
+			"position": "1,0,0,0,0,0,42,1276,798,1280,800",
 			"project": "",
 			"replace":
 			{
-				"height": 44.0
+				"height": 48.0
 			},
 			"save_all_on_build": true,
 			"select_file":

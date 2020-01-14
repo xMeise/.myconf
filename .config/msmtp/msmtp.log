@@ -1,0 +1,4 @@
+Dez 30 15:54:21 host=smtp.gmail.com tls=on auth=on user=konradsmailx@gmail.com from=konradsmailx@gmail.com recipients=konradsmailx@gmail.com mailsize=72 smtpstatus=250 smtpmsg='250 2.0.0 OK  1577717661 4sm20883363wmg.22 - gsmtp' exitcode=EX_OK
+Dez 30 15:55:06 host=smtp.gmail.com tls=on auth=on user=konradsmailx@gmail.com from=konradsmailx@gmail.com recipients=konradsmailx@gmail.com mailsize=113 smtpstatus=250 smtpmsg='250 2.0.0 OK  1577717706 b17sm44279035wrx.15 - gsmtp' exitcode=EX_OK
+Dez 30 15:57:23 host=smtp.gmail.com tls=on auth=on user=konradsmailx@gmail.com from=konradsmailx@gmail.com recipients=konradsmail@me.com mailsize=292 smtpstatus=250 smtpmsg='250 2.0.0 OK  1577717843 m10sm46237332wrx.19 - gsmtp' exitcode=EX_OK
+Dez 30 15:58:26 host=smtp.gmail.com tls=on auth=on user=konradsmailx@gmail.com from=konradsmailx@gmail.com recipients=konradsmail@me.com mailsize=298 smtpstatus=250 smtpmsg='250 2.0.0 OK  1577717905 b67sm21392842wmc.38 - gsmtp' exitcode=EX_OK

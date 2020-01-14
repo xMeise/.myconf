@@ -15,7 +15,7 @@ kernel parameters https://bbs.archlinux.org/viewtopic.php?id=192647
 grub config https://www.howtogeek.com/196655/how-to-configure-the-grub2-boot-loaders-settings/
 grub another config https://wiki.archlinux.de/title/GRUB
 i3 themes https://www.reddit.com/r/unixporn/comments/cmlxfy/i3gaps_ultrawide_with_rofi_sidebars/
-dotfiles https://github.com/ntcarlson/dotfiles
+dotfiles https://confluence.jaytaala.com/display/TKB/My+Manjaro+i3+setup
 Tippen Akademie https://www.tippenakademie.de/members/profile
 polybar setting https://www.reddit.com/r/unixporn/comments/650swx/running_polybar/
 polybar config https://github.com/adi1090x/polybar-themes
@@ -45,3 +45,36 @@ asus router http://192.168.0.193/index.asp
 rofi themes https://github.com/davatorium/rofi-themes/tree/master/User%20Themes
 rofi config https://blog.wizardsoftheweb.pro/rofi-basic-configuration/
 powerlevel9k font and theme https://github.com/Powerlevel9k/powerlevel9k
+wallpaper https://www.wallpaperflare.com/
+powerlevel9k different configs https://github.com/Powerlevel9k/powerlevel9k/wiki/Show-Off-Your-Config
+greenclip config https://wiki.archlinux.org/index.php/Greenclip
+cron tab https://crontab.guru/every-10-minutes
+cron config https://www.stetic.com/developer/cronjob-linux-tutorial-und-crontab-syntax/
+neomutt config http://nosubstance.me/post/mutt-secret-sauce/
+youtube2mp3 https://wiki.archlinux.de/title/Youtube_zu_Mp3_auf_der_Kommandozeile
+youtube-dl https://askubuntu.com/questions/373336/where-does-youtube-dl-download-the-videos-to
+nitrogen wallpaper changer http://lxlinux.com/changer.html
+newsboat config https://www.deadl0ck.io/posts/2019/newsboat-rss-feeds/
+ranger how to http://dquinton.github.io/debian-install/config/ranger.html
+Antminer_04 http://192.168.178.104/network.html
+Antminer_05 http://192.168.178.105/network.html
+Antminer_18 http://192.168.178.118/network.html
+Antminer_17 http://192.168.178.117/network.html
+Antminer_15 http://192.168.178.115/network.html
+Antminer_13 http://192.168.178.113/network.html
+Antminer_12 http://192.168.178.112/network.html
+Antminer_11 http://192.168.178.111/network.html
+Antminer_02 http://192.168.178.102/network.html
+Antminer_01 http://192.168.178.101/network.html
+Antminer_10 http://192.168.178.110/network.html
+Antminer_09 http://192.168.178.109/network.html
+Antminer_08 http://192.168.178.108/network.html
+Antminer_07 http://192.168.178.107/network.html
+Antminer_03 http://192.168.178.103/network.html
+Antminer_06 http://192.168.178.106/network.html
+Antminer_14 http://192.168.178.114/network.html
+VPN Raspberry Pie https://www.ionos.de/digitalguide/server/konfiguration/vpn-server-einrichten-via-raspberry-pi-und-openvpn/
+Network Scan https://www.elektronik-kompendium.de/sites/net/1910051.htm
+PiVPN https://github.com/pivpn/pivpn
+Raspberry Pie Arch Linux install https://linuxize.com/post/how-to-install-arch-linux-on-raspberry-pi/
+Disk Image of Linux System with dd command https://itstillworks.com/create-disk-image-linux-7278197.html

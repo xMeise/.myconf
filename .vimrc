@@ -137,3 +137,4 @@ let g:jellybeans_overrides = {
 \    'background': { 'guibg': '000000' },
 \}
 let mapleader = ","
+map <Esc><Esc> :w<CR>

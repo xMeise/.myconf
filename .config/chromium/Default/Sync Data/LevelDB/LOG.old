@@ -1,3 +1,15 @@
-2019/12/21-16:40:19.168 6686 Reusing MANIFEST /home/xmeise/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
-2019/12/21-16:40:19.169 6686 Recovering log #24
-2019/12/21-16:40:19.170 6686 Reusing old log /home/xmeise/.config/chromium/Default/Sync Data/LevelDB/000024.log 
+2020/01/03-14:40:19.800 8a1 Reusing MANIFEST /home/xmeise/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/01/03-14:40:19.800 8a1 Recovering log #27
+2020/01/03-14:40:19.928 8a1 Reusing old log /home/xmeise/.config/chromium/Default/Sync Data/LevelDB/000027.log 
+2020/01/03-14:45:08.203 fe9 Level-0 table #31: started
+2020/01/03-14:45:08.305 fe9 Level-0 table #31: 107140 bytes OK
+2020/01/03-14:45:08.362 fe9 Delete type=0 #27
+2020/01/03-14:45:08.363 fe9 Compacting 4@0 + 1@1 files
+2020/01/03-14:45:08.463 fe9 Generated table #32@0: 217 keys, 44125 bytes
+2020/01/03-14:45:08.463 fe9 Compacted 4@0 + 1@1 files => 44125 bytes
+2020/01/03-14:45:08.631 fe9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/01/03-14:45:08.632 fe9 Delete type=2 #19
+2020/01/03-14:45:08.632 fe9 Delete type=2 #22
+2020/01/03-14:45:08.632 fe9 Delete type=2 #28
+2020/01/03-14:45:08.632 fe9 Delete type=2 #31
+2020/01/03-14:45:08.632 fe9 Delete type=2 #25
